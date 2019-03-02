@@ -83,6 +83,6 @@ Git flow
 * git init
 * git add -A
 * git commit -m "Daj neki smisleni komentar"
-* git remote add origin master url_github
+* git remote add origin url_github
 * git remote set-url origin url_github
 * git push --set-upstream origin master 
