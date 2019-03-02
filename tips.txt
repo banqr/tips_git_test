@@ -77,3 +77,12 @@ Remove specific document => db.languages.remove({name: "C++"})
 
 Update document => db.languages.update({name: "P5js"}, {name: "P5.js"})
 
+##########################################################################
+
+Git flow
+* git init
+* git add -A
+* git commit -m "Daj neki smisleni komentar"
+* git remote add origin master url_github
+* git remote set-url origin url_github
+* git push --set-upstream origin master 
